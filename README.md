@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I'm a 3rd-year student at Baku Engineering University.
+- 🔭 I'm a senior student at Baku Engineering University.
 - 🌱 I'm a Junior Back-end developer working on improving my skills.
 
 ## Skills
